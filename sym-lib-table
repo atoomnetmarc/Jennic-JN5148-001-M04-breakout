@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RF_ZigBee-extra)(type Legacy)(uri ${ATOOMNETKICAD}/symbols/RF_ZigBee-extra.lib)(options "")(descr ""))
+  (lib (name Connector-extra)(type Legacy)(uri ${ATOOMNETKICAD}/symbols/Connector-extra.lib)(options "")(descr ""))
+)

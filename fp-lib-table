@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RF_Module-extra)(type KiCad)(uri ${ATOOMNETKICAD}/footprints/RF_Module-extra.pretty)(options "")(descr ""))
+  (lib (name Connector_PinHeader_2.54mm-extra)(type KiCad)(uri ${ATOOMNETKICAD}/footprints/Connector_PinHeader_2.54mm-extra.pretty)(options "")(descr ""))
+)
